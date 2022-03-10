@@ -17,7 +17,7 @@
   
   <a href="https://www.instagram.com/daniel.halos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:danielhalosneto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/danielhalosneto" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdanielhalosneto"></a>
+  
  
   ![Snake animation](https://github.com/Dhalos20/Dhalos20/blob/output/github-contribution-grid-snake.svg)
 
